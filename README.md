@@ -1,2 +1,3 @@
-# data-structures-and-algorithms
-data-structures-and-algorithms
+# Лабораторные работы по курсу "Алгоритмы и структуры данных"
+
+* [Тема 1. Сортировки](sorting-1) - [Условия](sorting-1/README.md)

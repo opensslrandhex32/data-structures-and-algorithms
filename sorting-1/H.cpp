@@ -9,6 +9,7 @@ struct Point {
     int y;
 };
 
+
 bool comparePoints(Point& a, Point& b) {
     return a.x * a.x + a.y * a.y < b.x * b.x + b.y * b.y;
 }
