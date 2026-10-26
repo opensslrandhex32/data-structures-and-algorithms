@@ -24,4 +24,9 @@ add_executable(data_structures_and_algorithms
         binary-2/E.cpp
         binary-2/H.cpp
         binary-2/I.cpp
+        heap-4/cpp/С.cpp
+        heap-4/cpp/C.cpp
+        heap-4/cpp/D.cpp
+        heap-4/cpp/D.cpp
+        heap-4/cpp/D_2.cpp
 )

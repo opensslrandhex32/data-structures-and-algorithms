@@ -3,3 +3,4 @@
 * [Тема 1. Сортировки](sorting-1) - [Условия](sorting-1/README.md)
 * [Тема 2. Бинарный поиск](binary-2) - [Условия](binary-2/README.md)
 * [Тема 3. Контейнеры (стек, очередь, дек)](containers-3) - [Условия](containers-3/README.md)
+* [Тема 4. Куча](heap-4) - [Условия](heap-4/README.md)
